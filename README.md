@@ -37,8 +37,8 @@ npm -v
      ```bash
      cd my-app
      ```
-   - This command creates a new React project named `my-custom-react-app`. It installs all necessary dependencies and sets up the project structure.
 
+     
 4. **Run the Development Server**
 - Start the React development server by running the command
    ```bash
