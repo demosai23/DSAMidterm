@@ -13,7 +13,7 @@ React JS is a widely used JavaScript library for building user interfaces, espec
 
 ---
 
-## Here is a step-by-step guide to get started with React JS?
+## 🛸 Here is a step-by-step guide to get started with React JS?🛸 
 
 ### 1. **Set Up the Development Environment**
 
@@ -38,9 +38,10 @@ npm -v
      cd my-app
      ```
 
-     
+
 4. **Run the Development Server**
 - Start the React development server by running the command
    ```bash
    npm start
    ```
+👾                                                            👾 
