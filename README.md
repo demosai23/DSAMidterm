@@ -25,21 +25,15 @@ node -v
 npm -v
 ```
 
-2. **Create a React Application**
-   - Download and install Node.js from [Node.js website](https://nodejs.org/).
-   - Verify installation:
-     ```bash
-     node -v
-     npm -v
-     ```
-3. **Navigate to Your Project Folder**
+
+2. **Navigate to Your Project Folder**
    - Once the setup is complete, navigate to your project folder::
      ```bash
      cd my-app
      ```
 
 
-4. **Run the Development Server**
+3. **Run the Development Server**
 - Start the React development server by running the command
    ```bash
    npm start
